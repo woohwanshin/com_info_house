@@ -19,7 +19,7 @@
 
 ---
 ### Markdown 작성법
-- 기본적인 작성법에 대해서는 [작성법 정리 블로그](https://simhyejin.github.io/2016/06/30/Markdown-syntax/#images)
+- 기본적인 작성법에 대해서는 [작성법 정리 블로그](https://simhyejin.github.io/2016/06/30/Markdown-syntax/#images){:target="_blank"} 
 - 추가적인 세세한 작성법 [1. Markdown 사용법](00.사용법/1.Markdown사용법.md)
 
 

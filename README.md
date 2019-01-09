@@ -18,7 +18,8 @@
 3. 작성이 완료되면 바로 Commit 하기
 
 ---
-###### Link Tip : CTRL Key + Link Click = New tab
+#### TIP
+1. Link Tip : CTRL Key + Link Click = New tab
 ---
 ### Markdown 작성법
 - 기본적인 작성법에 대해서는 [Markdwon 작성법 정리 블로그](https://simhyejin.github.io/2016/06/30/Markdown-syntax/#images)
@@ -31,4 +32,4 @@
   - 파일 : 공백은 _ 로 처리
 
 
-
+아란ㅁ람ㄴ라날아

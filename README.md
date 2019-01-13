@@ -2,7 +2,7 @@
 
 ### 참여자
 - woohwanshin
-- 
+- Jinchulchoi
 
 ### Study Rule
 1. 매주 각자의 목표를 정해서 다음 모임까지 진행.

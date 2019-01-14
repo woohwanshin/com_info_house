@@ -24,10 +24,10 @@
 ---
 ### Markdown 작성법
 - 기본적인 작성법에 대해서는 [Markdwon 작성법 정리 블로그](https://simhyejin.github.io/2016/06/30/Markdown-syntax/#images)
-- 추가적인 세세한 작성법 [1. Markdown 사용법](./00.사용법/Markdown_사용법)
+- 추가적인 세세한 작성법 [Markdown_사용법](./00.사용법/Markdown_사용법)
 
 ### Github 사용법
-- 기본적인 작성법에 대해서는 [GitHub 공식 메뉴얼](#)
+- 기본적인 작성법에 대해서는 [GitHub 공식 메뉴얼](#https://guides.github.com/)
 - 해당 Repo의 폴더/파일 작성법에 대해서
   - 폴더 : (2자리 숫자).(폴더명) ex) 00.사용법
   - 파일 : 공백은 _ 로 처리
